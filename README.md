@@ -5,8 +5,6 @@ This is NextJS version of the connection-simulation nodejs app, with integrated 
 
 (Note: The backend code doesn't create the .csv report files as in the original connection-simulation node app.)
 
-![csn-usage1.png](https://raw.githubusercontent.com/sroy0101/connection-simulation-nextjs/main/images/csn-usage1.PNG)
-
 ![csn-usage2.png](https://raw.githubusercontent.com/sroy0101/connection-simulation-nextjs/main/images/csn-usage2.PNG)
 
 ## Getting Started
