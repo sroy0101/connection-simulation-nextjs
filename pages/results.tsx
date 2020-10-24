@@ -3,9 +3,11 @@ import useSWR  from 'swr';
 
 export default function Result(props) {
     const { data }  = useSWR(`/api/data?consumers=${props.consumers}&agents=${props.agents}`, fetch);
+    // TODO: detect changes to the simulation result 
+    
     if(data && data.consumerConnectedPercent && parseInt(props.consumers) > 0) {
       return (
-          <div>
+          <div id='sim-result'>
             <h3>Simulation Results: </h3>
             <p>{`Consumer Connected : ${data.consumerConnectedPercent}%`}</p>
             <p>{`Agent Utilization : ${data.agentUtilizationPercent}%`}</p>

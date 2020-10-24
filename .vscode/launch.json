@@ -15,7 +15,7 @@
             "type": "node",
             "request": "launch",
             "name": "Next: Node",
-            "runtimeExecutable": "c:/projects/connection-simulator-next/node_modules/.bin/next",                       
+            "runtimeExecutable": "c:/projects/connection-simulation-nextjs/node_modules/.bin/next",                       
             "port": 9229,
             "console": "integratedTerminal"
         }        
