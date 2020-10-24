@@ -2,11 +2,12 @@
 # Connection-Simulation-NextJS
 
 This is NextJS version of the connection-simulation nodejs app, with integrated UI frontend and the backend application code in one. 
+
 (Note: The backend code doesn't create the .csv report files as in the original connection-simulation node app.)
 
-![csn-usage1.png](https://raw.githubusercontent.com/sroy0101/connection-simulation-nextjs/master/images/csn-usage1.PNG)
+![csn-usage1.png](https://raw.githubusercontent.com/sroy0101/connection-simulation-nextjs/main/images/csn-usage1.PNG)
 
-![csn-usage2.png](https://raw.githubusercontent.com/sroy0101/connection-simulation-nextjs/master/images/csn-usage2.PNG)
+![csn-usage2.png](https://raw.githubusercontent.com/sroy0101/connection-simulation-nextjs/main/images/csn-usage2.PNG)
 
 ## Getting Started
 
